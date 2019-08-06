@@ -1,4 +1,4 @@
-# https://javascript-calendar.herokuapp.com/
+# https://yeeeojin.github.io/calendar/index.html
 
 ## 캘린더 앱 실행 (웹서버 없이 구동)
 ```
